@@ -1,0 +1,68 @@
+
+.navbar{
+    box-shadow:5px 5px 10px #a056b3;
+   
+}
+.navbar-brand{
+    font-size:27px;
+    font-weight: bold;
+    color:  rgb(255, 255, 255) ;
+    background-image: linear-gradient(to right, rgb(255, 26, 255) , #7917b3);
+    background-color: #7917b3;
+    width: 130px;
+    border-radius: 6px 45px 6px 45px;
+    border-style: inset;
+   box-shadow:7px 4px #e1b6fa;
+}
+
+.navbar-brand:hover{
+    border-style:outset;
+}
+form {
+    outline: cornflowerblue;
+    height: 36px;
+    width: 100%;
+    max-width: 500px;
+ background: rgba(255, 255, 255, 0.774);
+ display: flex;
+ align-items: center;
+ border-radius: 60px;
+ padding:3px 10px;
+ border:3px inset rgb(255, 26, 255) ;
+}
+
+
+
+form input{
+    height: 30px;
+    border: 0;
+  background-color: #ffffff;
+     color: #ffffff;
+    }
+
+form button{
+    width: 35px;
+    border:2px;
+    border-radius: 50%;
+    height:33px;
+    background-color: #7917b3;
+    cursor: pointer;
+    color: white;
+}
+
+form button:hover{
+    background-color: rgb(236, 70, 195);
+}
+ 
+ul li a{
+    color:  rgb(168, 11, 168) ;
+    font-size:large;
+    font-weight: bold;
+    padding-inline: 1rem;
+    padding-left: 10px;
+}
+ul li a:hover{
+    text-shadow:7px 7px #e284ff3a  ;
+    font-size: 19px;
+    color:rgb(228, 45, 235) ;
+}
