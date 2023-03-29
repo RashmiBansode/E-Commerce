@@ -1,0 +1,111 @@
+{
+  "seller": [
+    {
+      "name": "rashmi",
+      "password": "rassh",
+      "email": "rashmi@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "juhi",
+      "password": "Manasvi@123",
+      "email": "juhi@gmail.com"
+    },
+    {
+      "name": "nakshu",
+      "password": "nakshu@123",
+      "email": "nakshu@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "nishan",
+      "password": "nishan@123",
+      "email": "nishan@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rashmi",
+      "password": "Rashmi@123",
+      "email": "Rashmi@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "shailendra",
+      "password": "shal\\u@123",
+      "email": "shalu@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Rashmi",
+      "password": "Rassh@123",
+      "email": "hmnm",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "Rashmi",
+      "password": "Rassh@123",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "Rashmi",
+      "password": "Rassh@123",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "Rashmi",
+      "password": "Rassh@123",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "Rashmi",
+      "password": "Rassh@123",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "Rashmi",
+      "password": "cgchh",
+      "email": "nbm",
+      "id": 13
+    },
+    {
+      "name": "fjhkjilo",
+      "password": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "name": "sauu",
+      "password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "Rashmi",
+      "password": "ghvj",
+      "email": "123",
+      "id": 16
+    },
+    {
+      "name": "sunita",
+      "password": "12345",
+      "email": "sunita@gmail.com",
+      "id": 17
+    }
+  ]
+}
