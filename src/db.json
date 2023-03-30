@@ -106,6 +106,24 @@
       "password": "12345",
       "email": "sunita@gmail.com",
       "id": 17
+    },
+    {
+      "name": "nishan",
+      "password": "Rassh@123",
+      "email": "hgv",
+      "id": 18
+    },
+    {
+      "name": "sunita",
+      "password": "sint@123",
+      "email": "subh@gma",
+      "id": 19
+    },
+    {
+      "name": "harsha",
+      "password": "harsha@123",
+      "email": "harsha@gmail.com",
+      "id": 20
     }
   ]
 }
